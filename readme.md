@@ -11,7 +11,7 @@ This repository is a personal project to practice and enhance my skills in DSA. 
 - **`basics/`**: Fundamental concepts and basic problems like even odd check, recursive functions, star patterns.
 
 
-###many more to come
+### many more to come
 
 ## 🛠️ Goals
 - **Improve problem-solving skills**: Solve diverse problems to get comfortable with different algorithms and data structures.
