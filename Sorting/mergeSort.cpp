@@ -34,7 +34,7 @@ vector<T> mergeSort(const vector<T>& arr, int start, int end) {
     int mid = (start + end) / 2;
     vector<T> left = mergeSort(arr, start, mid);
     vector<T> right = mergeSort(arr, mid + 1, end);
-    return merge1(left, right);
+    return merge(left, right);
 }
 
 // Main function to test Merge Sort
