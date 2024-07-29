@@ -9,7 +9,7 @@ This repository is a personal project to practice and enhance my skills in DSA. 
 
 ## 📂 Repository Structure
 - **`basics/`**: Fundamental concepts and basic problems like even odd check, recursive functions, star patterns.
-- **`sorting/`**: Some common Sorting algorithms: bubble sort (optimized)
+- **`sorting/`**: Some common Sorting algorithms: bubble sort (optimized),selection sort, insertion sort
 
 
 ### many more to come
